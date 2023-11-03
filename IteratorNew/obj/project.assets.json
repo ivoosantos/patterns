@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\IteratorNew\\IteratorNew.csproj",
+      "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\patterns\\IteratorNew\\IteratorNew.csproj",
       "projectName": "IteratorNew",
-      "projectPath": "C:\\Estudos\\Patterns - Behavioral\\IteratorNew\\IteratorNew.csproj",
+      "projectPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\IteratorNew\\IteratorNew.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudos\\Patterns - Behavioral\\IteratorNew\\obj\\",
+      "outputPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\IteratorNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

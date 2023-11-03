@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uKeg+lUIx96Pd2X/6xxLKOXGA/v2ZsVMRj3lJ5eD6J54kQ6Q7AcatafWVR4YBNnmRAgzfWUJGAYG3ESTpKni7Q==",
+  "dgSpecHash": "DxZKUmVOZ2K+GVT3wSRKClkbSYACgkdsOL6lDPqoT8BZ2VqjkS1adr7CdjiyeBpLv6c9bP1820tMsANWH2Kpug==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\State\\State.csproj",
+  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\State\\State.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

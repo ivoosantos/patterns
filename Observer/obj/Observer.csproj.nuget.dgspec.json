@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Patterns - Behavioral\\Observer\\Observer.csproj": {}
+    "C:\\Estudos\\Patterns - Behavioral\\patterns\\Observer\\Observer.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Patterns - Behavioral\\Observer\\Observer.csproj": {
+    "C:\\Estudos\\Patterns - Behavioral\\patterns\\Observer\\Observer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\Observer\\Observer.csproj",
+        "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\patterns\\Observer\\Observer.csproj",
         "projectName": "Observer",
-        "projectPath": "C:\\Estudos\\Patterns - Behavioral\\Observer\\Observer.csproj",
+        "projectPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\Observer\\Observer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Patterns - Behavioral\\Observer\\obj\\",
+        "outputPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\Observer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

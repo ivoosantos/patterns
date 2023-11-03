@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBMFUBZFEtAVCpIvGdsgHzNlQn+LJPMvmez1Z+hYjKhXTtZX2jIaRdJidF29tDWylSuRNbRYxhxRdQKAH13RFw==",
+  "dgSpecHash": "cAR/JyxhsRv/r5QkwMGAoH7c6lNRCZIH7ivgffBOf2DbLU3SaQGFQfwkTzF9IlDrel3958vzCNPVGiIaClNXww==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\CQRSMediator.csproj",
+  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\CQRSMediator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",

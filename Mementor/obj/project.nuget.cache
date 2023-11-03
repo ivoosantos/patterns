@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxFMJcYWJ2Pz8eUgTDfPL01kLWG+aL/FhaGp3itFbXf2C6HrlPFpcITIAHsLroVSh4zpQBKoKy5UkRbGBi5TYg==",
+  "dgSpecHash": "9QLI/GDXWbIhwRTPecwkY1SO7Jn2RRx8yizyQhgikkRcKYBEvkJtZXoDCSRUY2SnaOKJVMpOKt/S08BoYuoA6A==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\Mementor\\Mementor.csproj",
+  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\Mementor\\Mementor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

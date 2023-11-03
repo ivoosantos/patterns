@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\CQRSMediator.csproj": {}
+    "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\CQRSMediator.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\CQRSMediator.csproj": {
+    "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\CQRSMediator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\CQRSMediator.csproj",
+        "projectUniqueName": "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\CQRSMediator.csproj",
         "projectName": "CQRSMediator",
-        "projectPath": "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\CQRSMediator.csproj",
+        "projectPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\CQRSMediator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Patterns - Behavioral\\CQRSMediator\\obj\\",
+        "outputPath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\CQRSMediator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

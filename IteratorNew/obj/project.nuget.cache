@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZpiWJ4G6bzlA3y2mIFgalOUdflRAZp+3cVy8KJNzerX4PLVW/+M6xUW24xaG53s0iGi0txc7U1XrnPHVFwyP/w==",
+  "dgSpecHash": "eW6esih03ZIfA4rt7//7lL8EcO3w07D2SY5BmWiEcB1APKRxdxSIbZDrzxlfS8pUadzEF385z7KPtmkJrksEeQ==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\IteratorNew\\IteratorNew.csproj",
+  "projectFilePath": "C:\\Estudos\\Patterns - Behavioral\\patterns\\IteratorNew\\IteratorNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
