@@ -1,4 +1,4 @@
-﻿using Mementor.Models;
+﻿using static Models.OrderModel;
 
 namespace Mementor.Mementor
 {
